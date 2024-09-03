@@ -66,8 +66,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'I am on the job market in Fall 2024',
-        text: "Hey! I’m **Deewang Bhamidipati**, a 6th year PhD candidate in mathematics at <a href='https://www.math.ucsc.edu/index.html'>UC Santa Cruz</a>. My first name is pronounced as *dee-waang*. My advisor is <a href='http://martyweissman.com/'>Martin Weissman</a>.",
+        text: "Hey! I’m **Deewang Bhamidipati**, a 6th year PhD candidate in mathematics at <a href='https://www.math.ucsc.edu/index.html'>UC Santa Cruz</a>. My first name is pronounced as *dee-waang*. My advisor is <a href='http://martyweissman.com/'>Martin Weissman</a>.<br><br> ***I am on the job market in Fall 2024***",
         image: {
             src: '/deewang-smile.jpg',
             alt: 'a person smiling'
