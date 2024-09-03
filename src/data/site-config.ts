@@ -66,15 +66,19 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        text: "Hey! I’m **Deewang Bhamidipati**, a 6th year PhD candidate in mathematics at <a href='https://www.math.ucsc.edu/index.html'>UC Santa Cruz</a>. My first name is pronounced as *dee-waang*. My advisor is <a href='http://martyweissman.com/'>Martin Weissman</a>.<br><br> ***I am on the job market in Fall 2024***",
+        text: "Hey! I’m **Deewang Bhamidipati**, a 6th year PhD candidate in mathematics at <a href='https://www.math.ucsc.edu/index.html'>UC Santa Cruz</a>. My first name is pronounced as *dee-waang*. My advisor is <a href='http://martyweissman.com/'>Martin Weissman</a>.<br><br> ***I am on the job market in Fall 2024!***",
         image: {
             src: '/deewang-smile.jpg',
             alt: 'a person smiling'
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Bhamidipati CV',
+                href: 'https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing'
+            },
+            {
+                text: 'CV (Dark Mode)',
+                href: 'https://drive.google.com/file/d/1GouDYn-Efseih_NrD5z3LmwOvmtSlqt_/view?usp=sharing'
             }
         ]
     },
