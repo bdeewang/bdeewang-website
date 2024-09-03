@@ -66,11 +66,12 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        text: "Hey! I’m **Deewang Bhamidipati**, a 6th year PhD candidate in mathematics at <a href='https://www.math.ucsc.edu/index.html'>UC Santa Cruz</a>. My first name is pronounced as *dee-waang*. My advisor is <a href='http://martyweissman.com/'>Martin Weissman</a>.<br> <a href="/about">More about me →</a><br><br> ***I am on the job market in Fall 2024!***",
+        text: "Hey! I’m **Deewang Bhamidipati**, a 6th year PhD candidate in mathematics at <a href='https://www.math.ucsc.edu/index.html'>UC Santa Cruz</a>. My first name is pronounced as *dee-waang*. My advisor is <a href='http://martyweissman.com/'>Martin Weissman</a>.<br><br> ***I am on the job market in Fall 2024!***",
         image: {
             src: '/deewang-smile.jpg',
             alt: 'a person smiling'
         },
+        text2: "I am from India. Before coming to UC Santa Cruz, I received my M.S. in Mathematics from the <a href='https://math.hse.ru/en/'>Higher School of Economics</a> in Moscow, where I wrote my <a href='https://www.hse.ru/en/edu/vkr/296285338'>master’s thesis</a> under <a href='https://www.hse.ru/en/org/persons/160474191'>Vadim Vologodsky</a>; and I received my B.S. in Mathematics, with a specialization in applied algebra, from <a href='https://math.snu.edu.in/'>Shiv Nadar University</a> in India.",
         actions: [
             {
                 text: 'Bhamidipati CV',
