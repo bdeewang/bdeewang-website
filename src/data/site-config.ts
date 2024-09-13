@@ -66,7 +66,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: "I am on the job market in Fall 2024!"
+        title: "I am on the job market in Fall 2024!",
         text: "Hey! I am **Deewang Bhamidipati** (pronounced as *dee-waang*), a 6th year PhD candidate in mathematics at <a href='https://www.math.ucsc.edu/index.html'>UC Santa Cruz</a>, working with <a href='http://martyweissman.com/'>Martin Weissman</a>. My main fields of interest are Arithmetic Geometry and Algebraic Number Theory.<br> Originally from India, I hold an M.S. in Mathematics from the <a href='https://math.hse.ru/en/'>Higher School of Economics</a> in Moscow, where I wrote my <a href='https://www.hse.ru/en/edu/vkr/296285338'>master’s thesis</a> under <a href='https://www.hse.ru/en/org/persons/160474191'>Vadim Vologodsky</a>, and a B.S. in Mathematics with a specialization in applied algebra from <a href='https://math.snu.edu.in/'>Shiv Nadar University</a> in India.<br><br> <a href='mailto:bdeewang@ucsc.edu'>Email</a> is the best way to get in touch with me.<br><br> <p class="bg-indigo">***I am on the job market in Fall 2024!***</p>",
         image: {
             src: '/deewang-smile.jpg',
